@@ -30,7 +30,7 @@ It is responsive and compatible with different device size as well as interative
 
 ## Setup and Installation
 1. Clone the repositiotry
-   - git clone 
+   - git clone https://github.com/Hrithik4579
  2. open the termianl and first set up backend
     - cd HabiTrack/backend    
     - npm i                        
